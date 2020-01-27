@@ -63,3 +63,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'therubyracer', platforms: :ruby
 gem 'jquery-rails'
+
+gem 'activeadmin'
+gem 'devise'
+
+gem 'rails-i18n'
